@@ -1,0 +1,2 @@
+cc_scheme,scenario,avg_throughput,transfer_time,rtt
+reno,sc0,0,31.400166273117065,50

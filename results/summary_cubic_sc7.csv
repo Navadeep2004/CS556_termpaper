@@ -1,0 +1,2 @@
+cc_scheme,scenario,avg_throughput,transfer_time,rtt
+cubic,sc7,0,31.018307209014893,150
